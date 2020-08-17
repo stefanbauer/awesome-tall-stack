@@ -40,6 +40,7 @@ The TALL stack is a full stack development solution featuring some of the librar
 ## Learning
 
 - 🎥 [Blade Component Cookbook](https://laracasts.com/series/blade-component-cookbook) - Learn how to build Blade components using Laravel, Tailwind CSS & Alpine.js
+- 🎥 [A contact form with Livewire](https://stefanbauer.me/articles/a-contact-form-with-laravel-livewire) - Learn how to build a form with Laravel, Tailwind CSS and Livewire
 
 ## Apps & Websites
 
